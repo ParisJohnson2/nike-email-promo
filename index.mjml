@@ -1,0 +1,136 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+    </mj-style>
+    <mj-style inline="inline">
+
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#FFFFFF">
+    <mj-raw>
+      <!-- start of free shipping section -->
+    </mj-raw>
+    <mj-section padding="55px 0 0 0">
+      <mj-column>
+        <mj-divider border-width="2px" border-style="solid" border-color="black" padding="0" />
+        <mj-text align="center" font-weight="500" font-size="20px" padding-top="15px" padding-bottom="0">
+          Free Shipping
+        </mj-text>
+        <mj-text align="center" font-weight="300" font-size="15px" padding="15px" color="#8e8e8e">
+          Get free shipping as a Nike Member. <a href="#" style="color: #8e8e8e;">Learn More</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of free shipping section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of header img -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-image alt="main-img" href="#" src="./components/header-img.png" padding="0 35px" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of header img -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of header text -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-text align="left" font-weight="300" font-size="20px" padding="5px 35px" line-height="1.4">
+          Style up today with our One day sale-we're giving up to 20% off select sale styles
+          to help refresh your gear. Just use code <a href="#" style="color: black; text-decoration: none; font-weight: 400;">CHEERS</a> at checkout.
+        </mj-text>
+        <mj-text align="left" font-weight="300" font-size="20px" padding="25px 35px" line-height="1.4">
+          Don't miss it-this sale ends tomorrow at 10PM PT.<br>
+          Exlusions apply.*
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of header text -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of preview to sale, shoes section  -->
+    </mj-raw>
+    <mj-section>
+      <mj-column padding="0 0 35px 0" width="50%">
+        <mj-image alt="shoe-1" href="#" src="./components/shoe-1.png" height="200px" width="200px" />
+        <mj-text align="center" font-size="12px" line-height="1.2">
+          Nike Air Force 1'07 LX NBHD
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0 0 35px 0" width="50%">
+        <mj-image alt="shoe-2" href="#" src="./components/shoe-2.png" height="200px" width="200px" />
+        <mj-text align="center" font-size="12px" line-height="1.2">
+          Nike Air Force 1 '07
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0 0 35px 0" width="50%">
+        <mj-image alt="shoe-3" href="#" src="./components/shoe-3.png" height="200px" width="200px" />
+        <mj-text align="center" font-size="12px" line-height="1.2">
+          Nike Air Force 1'07 WB
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0 0 35px 0" width="50%">
+        <mj-image alt="shoe-4" href="#" src="./components/shoe-4.png" height="200px" width="200px" />
+        <mj-text align="center" font-size="12px" line-height="1.2">
+          Nike Air Force 1 '07 LV8
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-text align="center" font-size="20px" font-weight="400" letter-spacing=".5px" padding-bottom="0">
+          <a href="#" style="color: black; text-decoration: none">SHOP NOW</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of preview to sale, shoes section  -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of footer section -->
+    </mj-raw>
+    <mj-section padding-top="15px">
+      <mj-column>
+        <mj-divider border-width="2px" border-style="solid" border-color="black" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0">
+      <mj-column>
+        <mj-text align="center" font-weight="600" font-size="20px">
+          <a href="#" style="color: black; text-decoration: none;">NIKE.COM</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="48px">
+      <mj-group vertical-align="middle" width="350px">
+        <mj-column width="25%">
+          <mj-text align="center" font-weight="400" font-size="15px" padding="0">
+            <a href="#" style="color: black; text-decoration: none;">Mens</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="25%">
+          <mj-text align="center" font-weight="400" font-size="15px" padding="0">
+            <a href="#" style="color: black; text-decoration: none;">Womans</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="25%">
+          <mj-text align="center" font-weight="400" font-size="15px" padding="0">
+            <a href="#" style="color: black; text-decoration: none;">Boys</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="25%">
+          <mj-text align="center" font-weight="400" font-size="15px" padding="0">
+            <a href="#" style="color: black; text-decoration: none;">Girls</a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>
